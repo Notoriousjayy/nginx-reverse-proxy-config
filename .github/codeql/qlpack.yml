@@ -1,0 +1,4 @@
+name: Notoriousjayy/nginx-reverse-proxy-config-codeql-pack
+version: 0.0.1
+library: true
+dependencies: {}
